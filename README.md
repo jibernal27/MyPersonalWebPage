@@ -1,1 +1,1 @@
-Mi página personal creada para la calse programación con tecnolgías Web. 
+Mi página personal creada para la clase programación con tecnolgías Web. 
