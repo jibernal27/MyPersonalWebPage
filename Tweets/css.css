@@ -1,0 +1,13 @@
+.tweet {width: 400px;
+	float: left;
+margin: 20px;
+ }
+
+.tweet_name {clear:both;}
+.tweet_text {width: 40%;float: left;}
+.tweet_profilePic{width: 20%;
+			float: left;
+			display: block;} 
+div {overflow: auto;
+  
+}
